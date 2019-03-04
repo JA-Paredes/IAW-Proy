@@ -5,6 +5,8 @@ Ionic, Capacitor y Angular - Por Ángel Huete y Juan Antonio Paredes
 
 [Aplicación Angular](https://JA-Paredes.github.io/EJIAW/)
 
+[Presentación](https://ja-paredes.github.io/IAW-Proy/present/index.html)
+
 ## Tipos de aplicaciones 
 **Nativas**: Significa que para su desarrollo se utilizó el lenguaje de programación nativo del dispositivo
 
