@@ -1,7 +1,8 @@
 # Proyecto IAW
-Ionic, Capacitor y Angular
+Ionic, Capacitor y Angular - Por Ángel Huete y Juan Antonio Paredes
 
 [Ejemplo Angular](https://github.com/JA-Paredes/EJIAW)
+
 [Aplicación Angular](https://JA-Paredes.github.io/EJIAW/)
 
 ## Tipos de aplicaciones 
