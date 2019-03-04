@@ -3,7 +3,7 @@ Ionic, Capacitor y Angular - Por Ángel Huete y Juan Antonio Paredes
 
 [Ejemplo Angular](https://github.com/JA-Paredes/EJIAW)
 
-[Aplicación Angular](https://JA-Paredes.github.io/EJIAW/)
+[Aplicación Angular](https://JA-Paredes.github.io/IAWProy/)
 
 [Presentación](https://ja-paredes.github.io/IAW-Proy/present/index.html)
 
