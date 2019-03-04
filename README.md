@@ -1,11 +1,11 @@
 # Proyecto IAW
 Ionic, Capacitor y Angular - Por Ángel Huete y Juan Antonio Paredes
 
+[Presentación](https://ja-paredes.github.io/IAW-Proy/present/index.html)
+
 [Ejemplo Angular](https://github.com/JA-Paredes/EJIAW)
 
 [Aplicación Angular](https://JA-Paredes.github.io/IAWProy/)
-
-[Presentación](https://ja-paredes.github.io/IAW-Proy/present/index.html)
 
 ## Tipos de aplicaciones 
 **Nativas**: Significa que para su desarrollo se utilizó el lenguaje de programación nativo del dispositivo
