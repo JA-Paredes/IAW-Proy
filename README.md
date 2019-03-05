@@ -1,7 +1,7 @@
 # Proyecto IAW
 Ionic, Capacitor y Angular - Por Ángel Huete y Juan Antonio Paredes
 
-[Presentación](https://ja-paredes.github.io/IAW-Proy/present/index.html)
+[Presentación](https://ja-paredes.github.io/IAW-Proy/present/index.html) Realizada con https://rafaies.github.io/s9-shower/
 
 [Ejemplo Angular](https://github.com/JA-Paredes/EJIAW)
 
