@@ -62,7 +62,7 @@ Typescript en conjunción con TSLint hacen el código perfectamente escalable, y
 Aquí se muestra la estructura básica de toda aplicación de Angular, podemos observar que se basa en un conjunto de componentes y servicios.
 ![enter image description here](https://lh3.googleusercontent.com/lIhyV5EXo6uj5SO6mU2yQagvOLfSODaXgdbtB3nDgavnr2le_AVXsW38WpK7iA4TdlVD2ZSC6H3EgA "ESTRUCTURA DE APLICACION")
 
-## Qué es un componente de Angular?
+## ¿Qué es un componente de Angular?
 Lo primero debemos saber es que los componentes se usan debido a que **reducen la complejidad** de las aplicaciones.
 Dicho esto  un componente de Angular se compone de:
 
@@ -76,7 +76,7 @@ Dicho esto  un componente de Angular se compone de:
 ## Estructura de un componente:
 ![enter image description here](https://dc722jrlp2zu8.cloudfront.net/media/django-summernote/2018-05-16/d7a74af8-c3ba-4c00-98cd-e53627f32f28.png "Comp")
 
-## Que es un Servicio?
+## ¿Qué es un Servicio?
 Un  **servicio**  es un  **conjunto de métodos**  para gestionar diferentes tipos de datos relacionados con la aplicación.
 
 Creando  **servicios**  estamos  **quitando al componente responsabilidad**  que no le corresponde como puede ser logs, sesiones o servicios externos.
